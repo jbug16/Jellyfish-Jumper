@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"sOceanBackground",
   "bboxMode":0,
-  "bbox_bottom":63,
+  "bbox_bottom":1919,
   "bbox_left":0,
-  "bbox_right":63,
+  "bbox_right":1079,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"460b0800-2b18-44bd-9cb2-c54a6432402d","name":"460b0800-2b18-44bd-9cb2-c54a6432402d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3fcd82d6-4d14-4e82-9dca-acd15196815f","name":"3fcd82d6-4d14-4e82-9dca-acd15196815f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":1920,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a680677c-8ae1-4e7c-b3cf-2971855f179b","blendMode":0,"displayName":"default","isLocked":false,"name":"a680677c-8ae1-4e7c-b3cf-2971855f179b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"d6acf2a0-0e96-44f2-ab1a-18558558dd37","blendMode":0,"displayName":"default","isLocked":false,"name":"d6acf2a0-0e96-44f2-ab1a-18558558dd37","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sOceanBackground",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Background",
+    "path":"folders/Sprites/Background.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"460b0800-2b18-44bd-9cb2-c54a6432402d","path":"sprites/sOceanBackground/sOceanBackground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6365a259-8ed5-41bb-93a3-c3077a18b5e4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3fcd82d6-4d14-4e82-9dca-acd15196815f","path":"sprites/sOceanBackground/sOceanBackground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"65f3ee89-7f4e-48b5-b0b8-7e60dd1e1bb4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":1080,
 }

@@ -16,5 +16,6 @@ if (y < room_height / 2 and vspeed < 0)
 if (y > room_height + 50)
 {
 	instance_create_layer(x, y, "Player", oPlayerDead);
+	audio_play_sound(sndDead, 1, false);
 	instance_destroy();
 }
