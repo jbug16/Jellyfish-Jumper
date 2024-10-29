@@ -13,8 +13,8 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Background","folderPath":"folders/Objects/Background.yy","name":"Background","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Jellyfish","folderPath":"folders/Objects/Jellyfish.yy","name":"Jellyfish","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Collectables","folderPath":"folders/Objects/Collectables.yy","name":"Collectables","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Jellyfish","folderPath":"folders/Objects/Jellyfish.yy","name":"Jellyfish","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Objects/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"UI","folderPath":"folders/Objects/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -38,7 +38,6 @@
   "resources":[
     {"id":{"name":"fntButton","path":"fonts/fntButton/fntButton.yy",},},
     {"id":{"name":"fntScore","path":"fonts/fntScore/fntScore.yy",},},
-    {"id":{"name":"oBackgroundBottom","path":"objects/oBackgroundBottom/oBackgroundBottom.yy",},},
     {"id":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},},
     {"id":{"name":"oCoin","path":"objects/oCoin/oCoin.yy",},},
     {"id":{"name":"oCoinSpawner","path":"objects/oCoinSpawner/oCoinSpawner.yy",},},
